@@ -88,6 +88,10 @@ a {
         height: 70px;
         padding: 10px 20px;
     }
+    
+    .header li {
+        font-size: 100%;
+    }
 }
 
 @media (min-width: 700px) {
